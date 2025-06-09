@@ -4,7 +4,7 @@
   "type" : "form",
   "uuid" : "6cb81fca-9843-4190-bf09-1cfe095236a7",
   "modelVersion" : "2.6",
-  "lastUpdate" : 1749319729633,
+  "lastUpdate" : 1749438703090,
   "description" : "Page generated with Bonita UI designer",
   "rows" : [
     [
@@ -126,8 +126,8 @@
                           "value" : false
                         },
                         "dateFormat" : {
-                          "type" : "expression",
-                          "value" : "dd/MM/yyyy"
+                          "type" : "constant",
+                          "value" : "yyyy-MM-dd"
                         },
                         "cssClasses" : {
                           "type" : "constant",
