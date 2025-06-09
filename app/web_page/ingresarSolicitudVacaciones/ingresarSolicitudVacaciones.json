@@ -4,7 +4,7 @@
   "type" : "form",
   "uuid" : "6cb81fca-9843-4190-bf09-1cfe095236a7",
   "modelVersion" : "2.6",
-  "lastUpdate" : 1749446145258,
+  "lastUpdate" : 1749448314985,
   "description" : "Page generated with Bonita UI designer",
   "rows" : [
     [
@@ -103,7 +103,9 @@
                 "reference" : "c0d49cd9-614d-4552-9d1c-fa671409d5c2",
                 "hasValidationError" : false,
                 "id" : "nuevaSolicitudVacacionesFragmento",
-                "binding" : { }
+                "binding" : {
+                  "dataExt" : ""
+                }
               }
             ],
             [
