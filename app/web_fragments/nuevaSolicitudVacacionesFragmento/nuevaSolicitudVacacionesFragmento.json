@@ -3,7 +3,7 @@
   "name" : "nuevaSolicitudVacacionesFragmento",
   "type" : "fragment",
   "modelVersion" : "2.6",
-  "lastUpdate" : 1749448351889,
+  "lastUpdate" : 1749475801371,
   "rows" : [
     [
       {
@@ -72,7 +72,7 @@
           },
           "value" : {
             "type" : "variable",
-            "value" : "formInput.solicitudInput.fechaInicio"
+            "value" : "dataExt.solicitudInput.fechaInicio"
           },
           "allowHTML" : {
             "type" : "constant",
@@ -137,7 +137,7 @@
           },
           "value" : {
             "type" : "variable",
-            "value" : "formInput.solicitudInput.numeroDias"
+            "value" : "dataExt.solicitudInput.numeroDias"
           },
           "required" : {
             "type" : "constant",
